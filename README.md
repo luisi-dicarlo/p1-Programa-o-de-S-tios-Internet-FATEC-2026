@@ -75,7 +75,7 @@ https://pokeapi.co/
 
 Confira a publicação sobre este projeto:
 
-👉 []
+👉 [https://www.linkedin.com/posts/luisidicarlo_javascript-frontend-api-ugcPost-7452718017827975168-t4KL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpnZmUBlxJ7KNfnrD9_P7M9HxzdA37jVbc]
 
 ---
 
